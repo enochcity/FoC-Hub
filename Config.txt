@@ -1,0 +1,17 @@
+
+
+
+[lang]
+
+language = English
+
+
+
+
+
+[credentials]
+
+username = kaaren
+
+password = KRYPTERT
+
