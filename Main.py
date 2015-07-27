@@ -1,1 +1,4 @@
-__author__ = 'Andreas'
+import lang
+
+print(lang.welcome_msg)
+
